@@ -1,0 +1,16 @@
+first create git 
+  and add user name and email 
+  and git config --list
+  create filev
+  git status
+  git add file name or .
+  git status incids green colour 
+  git commit -m "message"
+  git log we want check how many time change
+  git remote add origin limk on github 
+  git push origin master or 
+  if check branchs git branch
+  if create branch git branch name
+  if we moveanthoer branch git checkout branchname
+  to merge git megre splint
+  
